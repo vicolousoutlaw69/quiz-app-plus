@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Confetti from 'react-confetti';
 import useSound from 'use-sound';
-import questions from './data/final_complete_all_1048_questions.json';
+import questions from './data/final_verified_questions.json';
 import correctSound from './data/correct.mp3';
 import wrongSound from './data/wrong.mp3';
 import './App.css';
